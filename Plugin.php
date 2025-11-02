@@ -36,7 +36,7 @@ class Plugin extends Base
 
     public function getPluginVersion()
     {
-        return '1.1.1';
+        return '1.0.0';
     }
 
     public function getPluginDescription()
@@ -46,6 +46,6 @@ class Plugin extends Base
 
     public function getPluginHomepage()
     {
-        return 'https://github.com/kanboard/plugin-broadcast';
+        return 'https://github.com/RainerBielefeld/Broadcast/';
     }
 }
