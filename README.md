@@ -1,6 +1,6 @@
 Broadcast Message Plugin for KANBOARD
 =====================================
-(based on archived Projedt *[plugin-broadcast](https://github.com/kanboard/plugin-broadcast)* by Frédéric Guillot, Balázs Úr and others) 
+(based on archived Project *[plugin-broadcast](https://github.com/kanboard/plugin-broadcast)* by Frédéric Guillot, Balázs Úr and others, which will no longer become maintained) 
 - Broadcast messages to all users via the application
 - Send a message to all active users via email
 
@@ -26,4 +26,4 @@ Note: Plugin folder is case-sensitive.
 Usage
 -----
 
-To publish a new message, go to "Settings > Broadcast Message".
+To publish a new message, go to (Application) "Settings > Broadcast Message".
