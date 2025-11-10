@@ -11,7 +11,7 @@
         "is_type": "plugin",
         "last_updated": "2025-11-09",
         "license": "MIT",
-        "readme": "https://github.com/RainerBielefeld/Broadcast/blob/master/README.md",
+        "readme": "https://github.com/RainerBielefeld/Broadcast/blob/main/README.md",
         "remote_install": true,
         "title": "Broadcast",
         "version": "1.0.0"
